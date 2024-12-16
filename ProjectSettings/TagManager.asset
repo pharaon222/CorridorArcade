@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Obstacle
   - Pass
+  - Point
+  - GrowBooster
+  - Door
   layers:
   - Default
   - TransparentFX
